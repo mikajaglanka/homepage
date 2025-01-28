@@ -1,0 +1,18 @@
+.article {
+    max-width: 600px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #efa1a1;
+    margin:  auto;
+    text-align: center
+
+}
+
+.article__header {
+    color: teal;
+}
+
+.article__paragraph {
+    margin: 40 px 0px;
+    padding: 0px 30px;
+    text-align: left;
+}
